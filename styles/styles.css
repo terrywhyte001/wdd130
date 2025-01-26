@@ -1,3 +1,21 @@
+/* header{ */
+    /* display: grid; */
+    /* grid-template-columns: repeat(3, 1fr); */
+/* } */
+/* nav { */
+    /* display: flex; */
+    /* padding-right: 10px; */
+    /* justify-items: center; */
+    /* justify-content: center; */
+/* } */
+
+/* a { */
+    /* padding: 10px; */
+/* } */
+
+main {
+    max-width: 840px;
+}
 nav { 
  background-color:darkblue;
  padding: 10px;
@@ -19,10 +37,6 @@ img {
 }
 p {
     padding: 10px;
-}
-main {
-    max-width: 840px;
-
 }
 aside {
     width: 20rem;
